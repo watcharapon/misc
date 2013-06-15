@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/watcha/works/netforce/david'
+let g:netrw_dirhist_2='/home/watcha/demo'
+let g:netrw_dirhist_3='/tmp/test_bash/attendances-7.0/bash_script'
+let g:netrw_dirhist_4='/tmp/keyring-W31ZHj'
+let g:netrw_dirhist_5='/etc/lighttpd'
+let g:netrw_dirhist_6='/home/watcha/myblog/protected/views'
+let g:netrw_dirhist_7='/home/watcha/trackstar/protected/config'
+let g:netrw_dirhist_8='/tmp/ssh-FpClRXJl2094'
+let g:netrw_dirhist_9='/home/watcha/projects/shining/etc'
